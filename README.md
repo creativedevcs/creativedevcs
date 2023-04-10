@@ -43,3 +43,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creativedevcs&" alt="creativedevcs" /></p>
 
 ![](https://leetcard.jacoblin.cool/shivansh2001sri?ext=heatmap)
+<h3>2.5 star on Leetcode</h3>
