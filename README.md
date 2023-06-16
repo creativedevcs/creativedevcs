@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shivansh2001sri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q3gFpC4ka5htMuuSgv6w4xkbhh8ssjtg/view](https://drive.google.com/file/d/1Q3gFpC4ka5htMuuSgv6w4xkbhh8ssjtg/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q3gFpC4ka5htMuuSgv6w4xkbhh8ssjtg/view](https://drive.google.com/file/d/1l3RAb18OJ6rBPMXyEZBSiNOEGWa0c3Q8/view?usp=sharing)
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
 
